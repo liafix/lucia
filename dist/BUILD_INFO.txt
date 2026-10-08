@@ -1,0 +1,5 @@
+PROJECT LUCIA V1.1
+Fresh offline production prebuild
+Built: 2026-10-08T17:00:53.482Z
+Source: src/runtime/* + public/* + vercel.json
+Purpose: dependency-free direct Vercel deployment of dist/
